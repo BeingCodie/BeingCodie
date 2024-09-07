@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there! 👋 I'm BeingCodie
 
-<!--
-**BeingCodie/BeingCodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I'm an IT student currently learning **Data Structures and Algorithms**.
+- 💻 Passionate about building efficient and scalable solutions.
+- 🔧 Experienced with **C++**, **HTML**, **CSS**, and **AWS Cloud Services**.
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- **WE ARE THE TRAVELLER**  
+  A hotel booking website built using **HTML**, **CSS**, and **JavaScript**. It provides users with an intuitive interface to search and book hotels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Currently Working On
+- Deepening my understanding of **Data Structures and Algorithms** to enhance problem-solving skills.
+- Building more projects to strengthen my skills in **C++** and **Web Development**.
+
+### 📫 How to Reach Me
+- [[LinkedIn Profile](https://www.linkedin.com/in/abhishek-kumar-75a0671ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFk2KC4%2B9R2W0rmtI4lev%2FQ%3D%3D)](#)  
+- Email: [kabhi7235@gmail.com](#)
+
+---
+
+Would you like to provide your LinkedIn URL and email, or any other modifications you'd like to make?
