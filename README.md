@@ -9,13 +9,6 @@
   A hotel booking website built using **HTML**, **CSS**, and **JavaScript**. It provides users with an intuitive interface to search and book hotels.
 
 ### 💻 Languages and Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 💻 Skills 
 [![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,html,css,figma,git,github)](https://skillicons.dev)
 
 ### 🌱 What I'm Currently Working On
