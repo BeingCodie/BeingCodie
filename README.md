@@ -16,6 +16,9 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&label=)
 
+### 💻 Skills 
+[![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,html,css,figma,git,github)](https://skillicons.dev)
+
 ### 🌱 What I'm Currently Working On
 - Deepening my understanding of **Data Structures and Algorithms** to enhance problem-solving skills.
 - Building more projects to strengthen my skills in **C++** and **Web Development**.
