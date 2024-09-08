@@ -1,5 +1,4 @@
-#                                                                 Hi there! 👋 I'm Abhishek.
-
+# Hi there! 👋 I'm Abhishek.
 
 - 👨‍💻 I'm an IT student currently learning **Data Structures and Algorithms**.
 - 💻 Passionate about building efficient and scalable solutions.
@@ -14,7 +13,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&label=)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 💻 Skills 
 [![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,html,css,figma,git,github)](https://skillicons.dev)
@@ -25,8 +24,7 @@
 
 ### 📫 How to Reach Me
 - [![GeeksforGeeks Icon](https://raw.githubusercontent.com/BeingCodie/BeingCodie/main/assets/geeksforgeeks-icon.png)](https://www.geeksforgeeks.org/user/kabhiwp64/)
-- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://skillicons.dev/icons?i=aws,c,cpp,html,css,figma,git,github)](https://skillicons.dev)
-)](https://www.linkedin.com/in/abhishek-kumar-75a0671ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFk2KC4%2B9R2W0rmtI4lev%2FQ%3D%3D)
-- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) kabhi7235@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-75a0671ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFk2KC4%2B9R2W0rmtI4lev%2FQ%3D%3D)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabhi7235@gmail.com)
 
 ---
