@@ -23,4 +23,5 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-75a0671ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFk2KC4%2B9R2W0rmtI4lev%2FQ%3D%3D)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabhi7235@gmail.com)
 - [![GeeksforGeeks Icon](https://raw.githubusercontent.com/BeingCodie/BeingCodie/main/assets/geeksforgeeks-icon.png)](https://www.geeksforgeeks.org/user/kabhiwp64/)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://beingcodie.github.io/portfolio/)
 ---
