@@ -1,5 +1,9 @@
 # Hi there! 👋 I'm Abhishek.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BeingCodie&label=Profile%20views&color=0e75b6&style=flat" alt="BeingCodie" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BeingCodie" alt="BeingCodie" /></a> </p>
+
 - 👨‍💻 I'm an IT student currently learning **Data Structures and Algorithms**.
 - 💻 Passionate about building efficient and scalable solutions.
 - 🔧 Experienced with **C++**, **HTML**, **CSS**, and **AWS Cloud Services**.
