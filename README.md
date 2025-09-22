@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm an IT student currently learning **Data Structures and Algorithms**.
 - 💻 Passionate about building efficient and scalable solutions.
-- 🔧 Experienced with **C++**, **HTML**, **CSS**, and **AWS Cloud Services**.
+- 🔧 Experienced with **C++**, **HTML**, **CSS**, **JavaScript**, **ReactJS** and **AWS Cloud Services**.
 
 ### 🚀 Projects
 - **[WE ARE THE TRAVELLER](https://beingcodie.github.io/Hotel-Booking-Website-Web-Development-Project/)**  
